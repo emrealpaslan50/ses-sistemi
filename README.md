@@ -7,4 +7,4 @@
 
 <a href="https://discord.gg/PCMNZRESWF">Discord Sunucum</a> | <a href="https://discord.com/channels/@me/819298243073540197">Discord Profilim</a>
 
-<h3>NOT: Dikkat!, Botun Altyapısında MIT lisansı bulunmaktadır. Bu dosyaların benden habersiz satılması/paylaşılması durumunda gerekli işlemler yapılacaktır!</h3>
+<h3>NOT: Dikkat!, Botun Altyapısında ISC lisansı bulunmaktadır. Bu dosyaların benden habersiz satılması/paylaşılması/değiştirilmesi durumunda gerekli işlemler yapılacaktır!</h3>
